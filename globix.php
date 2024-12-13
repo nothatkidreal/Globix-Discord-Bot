@@ -1,5 +1,7 @@
 <?php
+// (C) NHK Creative, 2024
 // (C) Julian QNK, 2024
+// Please refer to nothatkidreal/broadcast, everything that is different from that repository belongs to Julian QNK.
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
